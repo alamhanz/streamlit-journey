@@ -1,0 +1,4 @@
+altair
+pandas
+streamlit
+virtualenv==20.14.1

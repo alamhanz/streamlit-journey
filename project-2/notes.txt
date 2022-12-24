@@ -1,0 +1,4 @@
+https://discuss.streamlit.io/t/how-to-take-text-input-from-a-user/187/2
+https://discuss.streamlit.io/t/loading-our-own-datasets/7118/3
+https://towardsdatascience.com/make-dataframes-interactive-in-streamlit-c3d0c4f84ccb
+https://discuss.streamlit.io/t/download-button-for-csv-or-xlsx-file/17385/2
